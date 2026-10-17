@@ -13,6 +13,6 @@ currently on the founding team of its new API-first backend.
 - [unitas](https://github.com/sovrin/unitas): monadic parser combinators for TypeScript
 - [sonotas](https://github.com/sovrin/sonotas): a guitar tablature app
 
-I write RFCs, review code and care about what happens after it ships.
+I care about what happens after it ships.
 
 [sovrin.de](https://sovrin.de) · oleg@kamlowski.com
