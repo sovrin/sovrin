@@ -1,6 +1,6 @@
 # sovrin
 
-I build stuff. Mostly on purpose.
+I reinvent wheels. Mostly to see how they turn.
 
 ---
 
