@@ -1,6 +1,7 @@
 # sovrin
 
 I reinvent wheels. Mostly to see how they turn.
+I solve problems from scratch. Mostly because I enjoy the process.
 
 ---
 
